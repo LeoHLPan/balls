@@ -1,4 +1,4 @@
 sceneSetups:
-- path: E:/07. Projects/Game Jam 2017/Project/Side Scroller/Assets/master.unity
+- path: Assets/master.unity
   isLoaded: 1
   isActive: 1
